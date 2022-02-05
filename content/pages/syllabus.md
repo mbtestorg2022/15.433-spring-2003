@@ -55,12 +55,57 @@ TA's and Review Sessions
 Grading
 -------
 
-| REQUIREMENTS | PERCENTAGE |
-| --- | --- |
-| Regular attendance and class participation | 10% |
-| Five group assignments     | 20% |
-| Mid-term examination  | 30% |
-| Final examination  | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Regular attendance and class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five group assignments    
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term examination 
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final examination 
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class Preparation and Participation
 -----------------------------------
@@ -76,14 +121,96 @@ There are five group assignments. Each is worth between 3 to 5 points toward you
 
 Please work in a group of three to five students when preparing these assignments. Each group should hand in only one set of answers. Each group member will receive the same grade on an exercise, and each is expected to make a significant contribution to the solution of every problem.
 
-| LEC # | ASSIGNMENTS | POINTS |
-| --- | --- | --- |
-| 1 | Capital Market Theory | 3 |
-| 2 | Security Analysis | 5 |
-| 3 | Futures Problem | 4 |
-| 4 | Simulation Based Option Problem | 5 |
-| 5 | Performance Attribution | 3 |
-| 6 | Total | 20 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Capital Market Theory
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Security Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Futures Problem
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Simulation Based Option Problem
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Performance Attribution
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Exams
 -----
